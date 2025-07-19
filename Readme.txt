@@ -1,0 +1,1 @@
+-This file predicts the price of a piece of diamond using several machine learning approaches
